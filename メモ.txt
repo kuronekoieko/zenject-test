@@ -1,0 +1,7 @@
+■参考記事
+・Zenject を使い始めてみた（SceneContext と ZenjectBinding）
+http://negi-lab.blog.jp/StartZenject
+
+■インストール
+https://github.com/modesttree/Zenject/releases
+
